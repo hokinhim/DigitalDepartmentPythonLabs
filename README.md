@@ -20,16 +20,17 @@ Explore the following lab assignments:
 
 ### Procedural Python Labs
 
-- **Lab 1**: 
-- **Lab 2**: 
-- **Lab 3**: 
-- **Lab 4**:
+- **Lab 1**: Basic Python Object Types
+- **Lab 2**: Basic Python Instructions
+- **Lab 3**: Functions. Creating and using functions
+- **Lab 4**: Advanced features for using functions. Working with data sources.
 
 ### Object-Oriented Python Labs
 
-- **Lab 1**: 
-- **Lab 2**: 
-- **Lab 3**: 
+- **Lab 1**: Fundamentals of Object-oriented Programming
+- **Lab 2**: Attributes and methods
+- **Lab 3**: Encapsulation, inheritance, polymorphism.
+- **Lab 4**: ...
 
 Feel free to contribute by adding new labs or improving existing ones!
 
