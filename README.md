@@ -23,14 +23,13 @@ Explore the following lab assignments:
 - **Lab 1**: 
 - **Lab 2**: 
 - **Lab 3**: 
-- **Lab 3**:
+- **Lab 4**:
 
 ### Object-Oriented Python Labs
 
-- **Lab 4**: 
-- **Lab 5**: 
-- **Lab 6**: 
-- ...
+- **Lab 1**: 
+- **Lab 2**: 
+- **Lab 3**: 
 
 Feel free to contribute by adding new labs or improving existing ones!
 
@@ -51,3 +50,9 @@ To begin your lab journey, follow these steps:
 Thank you for your interest in contributing to the **Digital Department Python Labs** repository. Please note that this repository is currently closed for new contributions.
 
 Thank you for your understanding.
+
+## License
+
+This repository is licensed under the MIT License - see the LICENSE file for details.
+
+Happy coding! 🚀
