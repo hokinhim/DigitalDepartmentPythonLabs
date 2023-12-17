@@ -39,7 +39,7 @@ To begin your lab journey, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/digital-department-python-labs.git
+   git clone https://github.com/hokinhim/IDOPython2023.git
 2. **Navigate to the lab directory:**
    ```bash
    cd digital-department-python-labs/labX
